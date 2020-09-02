@@ -1,6 +1,6 @@
 ## Lee Lab Neurobiology of Taste: Taste experience of laboratory mice
 
-## Background
+### Background
 
 Hello!
 
@@ -10,4 +10,4 @@ I designed and performed behavioral studies on mice and conducted analysis on th
 
 Here is a sample model built from published data for [Dolensek, et al.](https://science.sciencemag.org/content/368/6486/89) where the authors conducted facial expression analysis on emotions in mice, downloaded from [Zenodo](https://zenodo.org/record/3618395#.XsGdaBNKjxQ).
 
-## About the model
+### About the model
